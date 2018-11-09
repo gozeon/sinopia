@@ -42,7 +42,8 @@ dependencies:
   JSONStream: '1.x'
 
   mkdirp: '>=0.3.5 <1.0.0-0'
-  morgan: '^1.9.1'
+  mongo-morgan: '^2.0.3'
+  morgan-json: '^1.1.0'
   sinopia-htpasswd: '>= 0.4.3'
   http-errors: '>=1.2.0'
 
